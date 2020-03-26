@@ -255,6 +255,7 @@
         <module>security/oauth2-google</module>
         <module>security/oauth2-github</module>
         <module>security/oauth2-geonode</module>
+ 	<module>security/oauth2-terrabrasilis</module>
         <module>security/oauth2-openid-connect</module>
         <module>security/keycloak</module>
         <module>wmts-multi-dimensional</module>

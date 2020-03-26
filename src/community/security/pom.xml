@@ -48,6 +48,15 @@
     </profile>
 
     <profile>
+      <id>oauth2-terrabrasilis</id>
+      <modules>
+        <module>oauth2-core</module>
+        <module>oauth2-terrabrasilis</module>
+      </modules>
+    </profile>
+
+
+    <profile>
       <id>keycloak</id>
       <modules>
         <module>keycloak</module>
@@ -70,6 +79,7 @@
         <module>oauth2-github</module>
         <module>oauth2-geonode</module>
         <module>oauth2-openid-connect</module>
+	<module>oauth2-terrabrasilis</module>
       </modules>
     </profile>
     
